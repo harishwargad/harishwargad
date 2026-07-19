@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning, to learn quickly!
 - ⚡ Fun fact: I like running 🏃 & calisthenics 🤸🏻‍♂️
 - 📫 How to reach me: ...
+- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/harishwargad)
 <!--
 **harishwargad/harishwargad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
