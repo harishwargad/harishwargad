@@ -1,63 +1,59 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Harish&fontSize=70&fontColor=FFFFFF&stroke=-&theme=cobalt" width="100%" />
 
-### I am Harish, an AIML student, who also loves to learn about CyberSecurity and Development in general.
-- 🔭 I’m currently working on AI Engineering and CyberSecurity
-- 🌱 I’m currently learning, to learn quickly!
-- ⚡ Fun fact: I like running 🏃 & calisthenics 🤸🏻‍♂️
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
 </div>
 
-- 📫 How to reach me: ...
+---
 
-###
+### 📌 About Me
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+- 🔭 **Currently Building:** AI Engineering systems and practical CyberSecurity tooling.
+- 🎓 **Focus:** Exploring the intersection of Large Models, Data Science, and Defensive Security.
+- 🌱 **Learning Philosophy:** Optimizing for high-speed learning and deep technical fundamentals.
+- ⚡ **Fun Fact:** Fueled by daily running 🏃 and calisthenics 🤸🏻‍♂️.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+**AI / Machine Learning & Data Science**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,numpy,pandas,matlab,jupyter" alt="AI ML Stack" />
+</p>
+
+**Backend, Security & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,bash,git,github,vscode" alt="Backend and DevOps Stack" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishwargad&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="150" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishwargad&layout=compact&theme=cobalt&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishwargad&theme=cobalt&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<!--
-**harishwargad/harishwargad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤝 Connect With Me
 
-Here are some ideas to get you started:
+- 💬 Open to discussions on AI/ML research, security, and open-source projects.
+- 📫 Feel free to reach out via [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or [Email](mailto:YOUR_EMAIL@example.com).
 
-- 😄 Pronouns: ...
-- 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="100%" />
+</div>
