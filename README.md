@@ -1,6 +1,6 @@
+# 👋️Hello 
+## I am Harish Wargad
 <div align="center">
-  <h3>Hello!I am Harish!</h3>h3
-
   <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
 </div>
 
