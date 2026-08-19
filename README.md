@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello👋️ I am Harish!&fontSize=70&fontColor=00FFFF&stroke=-&theme=cobalt" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello!I am Harish!&fontSize=70&fontColor=00FFFF&stroke=-&theme=cobalt" width="100%" />
 
   <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
 </div>
