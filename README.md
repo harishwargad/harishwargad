@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on AI Engineering and CyberSecurity
 - 🌱 I’m currently learning, to learn quickly!
 - ⚡ Fun fact: I like running 🏃 & calisthenics 🤸🏻‍♂️
-- 📫 How to reach me: ...
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -33,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
+- 📫 How to reach me: ...
 ###
 
 <div data-importer="socials" align="left">
@@ -50,6 +48,7 @@
 </div>
 
 ###
+
 <!--
 **harishwargad/harishwargad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
