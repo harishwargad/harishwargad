@@ -1,31 +1,38 @@
-# Hi, I'm Harish 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Hi,%20I'm%20Harish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-AIML student passionate about **AI Engineering**, **Cybersecurity**, and **Software Development**.
+  <p>
+    <strong>AIML Student</strong> &bull; <strong>AI Engineering</strong> &bull; <strong>Cybersecurity</strong>
+  </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Focusing on AI systems and defensive security tools.
-- 🌱 Continuously learning, experimenting, and building.
-- ⚡ Fun fact: Passionate about running 🏃 and calisthenics 🤸🏻‍♂️.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 📬 Connect With Me
+### ⚡ Overview
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+- 🔭 **Current Focus:** Building AI-driven systems and defensive security tools.
+- 🌱 **Learning:** Rapid prototyping, distributed AI, and vulnerability research.
+- 🏃 **Off-Screen:** Running & calisthenics.
+
+---
+
+### 💻 Technologies & Tools
+
+| Domain | Stack |
+| :--- | :--- |
+| **AI / Machine Learning** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy" /></a> |
+| **Development & Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,docker,linux,bash,git,github" /></a> |
+| **Environment** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,neovim,jupyter" /></a> |
+
+---
+
+<div align="center">
+  <sub>Let's connect and build something solid.</sub>
+</div>
