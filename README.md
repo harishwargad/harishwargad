@@ -1,29 +1,46 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Harish&fontSize=70&fontColor=FFFFFF&stroke=-&theme=cobalt" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e3c72,100:2a5298&text=Hi%20There,%20I'm%20Harish%20👋&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=AI/ML%20Student%20%7C%20Aspiring%20MLOps%20Engineer&descSize=18&descAlignY=55" width="100%"/>
+  <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
 
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
 </div>
 
-### 🚀 About Me
-- 🎓 3rd-year **AI/ML** student, building my career independently.
-- 🌱 Learning philosophy: **close the screen, write it from scratch.** Proof over certificates.
-- 🛡️ Side interest: **Cybersecurity** — TryHackMe, PortSwigger Web Security Academy.
-- ⚡ Fun fact: I run 🏃 and do calisthenics 🤸🏻‍♂️ when I'm not debugging.
+---
 
-### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,sklearn,linux,git,github,vscode,bash&theme=dark" />
+### 📌 About Me
 
-### 📫 Connect With Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/harish-wargad/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/HarishWargad" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="30" alt="x/twitter" style="margin-top:5px;" />
-  </a>
+- 🔭 **Currently Building:** AI Engineering systems and practical CyberSecurity tooling.
+- 🎓 **Focus:** Exploring the intersection of Large Models, Data Science, and Defensive Security.
+- 🌱 **Learning Philosophy:** Optimizing for high-speed learning and deep technical fundamentals.
+- ⚡ **Fun Fact:** Fueled by daily running 🏃 and calisthenics 🤸🏻‍♂️.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+**AI / Machine Learning & Data Science**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,numpy,pandas,matlab,jupyter" alt="AI ML Stack" />
+</p>
+
+**Backend, Security & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,bash,git,github,vscode" alt="Backend and DevOps Stack" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+- 💬 Open to discussions on AI/ML research, security, and open-source projects.
+- 📫 Feel free to reach out via [LinkedIn](https://linkedin.com/in/harish-wargad/) or [X](https://x.com/HarishWargad).
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="100%" />
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2a5298,100:1e3c72" width="100%"/>
