@@ -1,59 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Harish&fontSize=70&fontColor=FFFFFF&stroke=-&theme=cobalt" width="100%" />
+# Hi, I'm Harish 👋
 
-  <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
-
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-    <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-  </p>
-</div>
+AIML student passionate about **AI Engineering**, **Cybersecurity**, and **Software Development**.
 
 ---
 
-### 📌 About Me
+### 🚀 About Me
 
-- 🔭 **Currently Building:** AI Engineering systems and practical CyberSecurity tooling.
-- 🎓 **Focus:** Exploring the intersection of Large Models, Data Science, and Defensive Security.
-- 🌱 **Learning Philosophy:** Optimizing for high-speed learning and deep technical fundamentals.
-- ⚡ **Fun Fact:** Fueled by daily running 🏃 and calisthenics 🤸🏻‍♂️.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-**AI / Machine Learning & Data Science**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,numpy,pandas,matlab,jupyter" alt="AI ML Stack" />
-</p>
-
-**Backend, Security & Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,bash,git,github,vscode" alt="Backend and DevOps Stack" />
-</p>
+- 🔭 Focusing on AI systems and defensive security tools.
+- 🌱 Continuously learning, experimenting, and building.
+- ⚡ Fun fact: Passionate about running 🏃 and calisthenics 🤸🏻‍♂️.
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishwargad&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishwargad&layout=compact&theme=cobalt&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishwargad&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-</div>
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🤝 Connect With Me
+### 📬 Connect With Me
 
-- 💬 Open to discussions on AI/ML research, security, and open-source projects.
-- 📫 Feel free to reach out via [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or [Email](mailto:YOUR_EMAIL@example.com).
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="100%" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
