@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋️Hello, I am Harish Wargad!</h1>
+  <h1>👋 Hello, I am Harish Wargad!</h1>
+  <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
 </div>
 
 
@@ -11,9 +12,6 @@
 </p> -->
 
 
-<div align="center">
-  <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
-</div>
 
 
 <!-- INFO STARTS FROM HERE -->
