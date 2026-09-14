@@ -15,7 +15,10 @@
   <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
 </div>
 
+
+<!-- INFO STARTS FROM HERE -->
 ---
+
 
 ### 📌 About Me
 
@@ -24,7 +27,9 @@
 - 🌱 **Learning Philosophy:** Optimizing for high-speed learning and deep technical fundamentals.
 - ⚡ **Fun Fact:** Fueled by daily running 🏃 and calisthenics 🤸🏻‍♂️.
 
+
 ---
+
 
 ### 🛠️ Tech Stack & Tooling
 
@@ -38,7 +43,9 @@
   <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,bash,git,github,vscode" alt="Backend and DevOps Stack" />
 </p>
 
+
 ---
+
 
 ### 🤝 Connect With Me
 
@@ -48,6 +55,7 @@
     <a href="https://linkedin.com/in/harish-wargad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/HarishWargad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
 </p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="100%" />
