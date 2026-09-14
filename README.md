@@ -1,7 +1,6 @@
-<!-- # 👋️Hello, I am **Harish Wargad**! -->
-<div align="center">
+<p align="center">
   <h1>👋️Hello, I am Harish Wargad!</h1>
-</div>
+</p>
 
 
 <!-- TRIED TESTING SOMETHING NEW -->
