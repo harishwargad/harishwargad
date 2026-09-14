@@ -1,13 +1,13 @@
 # 👋️Hello 
-<!-- ## I am Harish Wargad  -->
-<p align="center">
+## I am Harish Wargad 
+<!-- <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:1B1F27,100:0D1117&text=I%20am%20Harish%20Wargad&fontColor=E7E2D6&fontSize=40&fontAlignY=34&animation=fadeIn&" alt="Harish Wargad" />
   <br />
-  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=8A9BA8&center=true&vCenter=true&width=520&height=32&lines=Agentic+AI+systems%2C+end+to+end.;Multi-agent+orchestration.;FastAPI+backends.+MLOps+that+ships." alt="Typing SVG" /></a> -->
-</p>
-<!-- <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=8A9BA8&center=true&vCenter=true&width=520&height=32&lines=Agentic+AI+systems%2C+end+to+end.;Multi-agent+orchestration.;FastAPI+backends.+MLOps+that+ships." alt="Typing SVG" /></a>
+</p> -->
+<div align="center">
   <h3>AIML Student &bull; AI Engineering &bull; CyberSecurity Enthusiast</h3>
-</div> -->
+</div>
 
 ---
 
