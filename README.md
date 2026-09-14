@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <h1>👋️Hello, I am Harish Wargad!</h1>
-</p>
+</div>
 
 
 <!-- TRIED TESTING SOMETHING NEW -->
